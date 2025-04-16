@@ -1,15 +1,15 @@
 # **Cybersecurity Global Threats Analysis (2018-2024)**
 
-## **Project Overview**
-This interactive Tableau dashboard provides a comprehensive analysis of global cybersecurity incidents between 2018 and 2024. It leverages a global dataset to uncover patterns across various attack types, vulnerabilities, impacted industries, and the financial impact of security breaches. The dashboard is designed to help organizations better understand their cybersecurity risk landscape and make informed decisions about risk mitigation and resource allocation.
-
 You can view the interactive dashboard here:
 [Cybersecurity Dashboard - Threats by Region](https://public.tableau.com/app/profile/maanvi.padma.gharge/viz/CybersecurityDashboard_17447880443400/ThreatsbyRegion2)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/maanvi-gharge01/Cyber-dashboard/raw/803f0a9b0f24279a3e527e45fb747c408e289601/Threat_pg1.png" width="45%" />
+  <img src="https://github.com/maanvi-gharge01/Cyber-dashboard/raw/803f0a9b0f24279a3e527e45fb747c408e289601/Threat_pg1.png" width="45%" style="margin-right: 20px;" />
   <img src="https://github.com/maanvi-gharge01/Cyber-dashboard/raw/532b6dc161d448dd4070b096860faef13cba92bf/Threat_pg2.png" width="45%" />
 </div>
+
+## **Project Overview**
+This interactive Tableau dashboard provides a comprehensive analysis of global cybersecurity incidents between 2018 and 2024. It leverages a global dataset to uncover patterns across various attack types, vulnerabilities, impacted industries, and the financial impact of security breaches. The dashboard is designed to help organizations better understand their cybersecurity risk landscape and make informed decisions about risk mitigation and resource allocation.
 
 ## **Dashboard Structure**
 The dashboard is split into two primary pages:
