@@ -28,7 +28,6 @@ The goal of this project is to provide cybersecurity professionals, decision-mak
 
 ## **Technologies Used**
 - **Tableau**: To create interactive dashboards and visualizations.
-- **Data Preparation**: Data cleaned and preprocessed using Excel and SQL.
 - **Dataset**: Global cybersecurity incidents dataset (2018-2024) from Kaggle
 
 ## **Usage**
