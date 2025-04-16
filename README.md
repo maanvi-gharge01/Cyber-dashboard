@@ -6,6 +6,9 @@ This interactive Tableau dashboard provides a comprehensive analysis of global c
 You can view the interactive dashboard here:
 [Cybersecurity Dashboard - Threats by Region](https://public.tableau.com/app/profile/maanvi.padma.gharge/viz/CybersecurityDashboard_17447880443400/ThreatsbyRegion2)
 
+![Threat Dashboard Image](https://github.com/maanvi-gharge01/Cyber-dashboard/raw/803f0a9b0f24279a3e527e45fb747c408e289601/Threat_pg1.png)
+
+
 ## **Dashboard Structure**
 The dashboard is split into two primary pages:
 
