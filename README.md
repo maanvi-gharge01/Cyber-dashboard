@@ -4,7 +4,7 @@
 This interactive Tableau dashboard provides a comprehensive analysis of global cybersecurity incidents between 2018 and 2024. It leverages a global dataset to uncover patterns across various attack types, vulnerabilities, impacted industries, and the financial impact of security breaches. The dashboard is designed to help organizations better understand their cybersecurity risk landscape and make informed decisions about risk mitigation and resource allocation.
 
 You can view the interactive dashboard here:
-<iframe src="https://public.tableau.com/views/CybersecurityDashboard_17447880443400/ThreatsbyRegion2" width="800" height="600"></iframe>
+[Cybersecurity Dashboard - Threats by Region](https://public.tableau.com/app/profile/maanvi.padma.gharge/viz/CybersecurityDashboard_17447880443400/ThreatsbyRegion2)
 
 ## **Dashboard Structure**
 The dashboard is split into two primary pages:
